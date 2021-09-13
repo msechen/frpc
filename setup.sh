@@ -1,3 +1,6 @@
+#! wget https://raw.githubusercontent.com/smnahidemon/Google-Cloud-RDP/smnahidemon/setup.sh
+#! chmod +x setup.sh
+#! ./setup.sh
 #! /bin/bash
 printf "Installing RDP Be Patience..." >&2
 {
