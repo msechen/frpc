@@ -1,6 +1,6 @@
-#! wget https://raw.githubusercontent.com/msechen/frpc/master/setup.sh
-#! chmod +x setup.sh
-#! ./setup.sh
+#! wget https://raw.githubusercontent.com/msechen/frpc/master/rdpinstall.sh
+#! chmod +x rdpinstall.sh
+#! ./rdpinstall.sh
 #! /bin/bash
 printf "Installing RDP Be Patience..." >&2
 {
