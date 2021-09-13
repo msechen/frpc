@@ -1,4 +1,4 @@
-#! wget https://raw.githubusercontent.com/smnahidemon/Google-Cloud-RDP/smnahidemon/setup.sh
+#! wget https://raw.githubusercontent.com/msechen/frpc/master/setup.sh
 #! chmod +x setup.sh
 #! ./setup.sh
 #! /bin/bash
